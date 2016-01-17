@@ -1,0 +1,45 @@
+<RCC>
+  <qresource prefix="irc">
+    <file>Resources/channel_128.png</file>
+    <file>Resources/macro.png</file>
+    <file>Resources/macro_128.png</file>
+    <file>Resources/connectionscript_128.png</file>
+    <file>Resources/identity_64.png</file>
+    <file>Resources/connectionscript_32.png</file>
+    <file>Resources/identity_128.png</file>
+    <file>Resources/server_128.png</file>
+    <file>Resources/user.png</file>
+    <file>Resources/user_32.png</file>
+    <file>Resources/voice.png</file>
+    <file>Resources/operator.png</file>
+    <file>Resources/irc.png</file>
+    <file>Resources/network.png</file>
+    <file>Resources/server.png</file>
+    <file>Resources/change_server_128.png</file>
+    <file>Resources/kick_128.png</file>
+    <file>Resources/kick.png</file>
+    <file>Resources/channel.png</file>
+    <file>Resources/channel_32.png</file>
+    <file>Resources/connect_128.png</file>
+    <file>Resources/disconnect_128.png</file>
+    <file>Resources/console_128.png</file>
+    <file>Resources/notice.png</file>
+    <file>Resources/other.png</file>
+    <file>Resources/dcc_chat.png</file>
+    <file>Resources/dcc_sendfile.png</file>
+    <file>Resources/whois.png</file>
+    <file>Resources/ping.png</file>
+    <file>Resources/time.png</file>
+    <file>Resources/finger.png</file>
+    <file>Resources/userinfo.png</file>
+    <file>Resources/version.png</file>
+    <file>Resources/source.png</file>
+    <file>Resources/ignore.png</file>
+    <file>Resources/unignore.png</file>
+    <file>Resources/mute.png</file>
+    <file>Resources/unmute.png</file>
+    <file>Resources/mode.png</file>
+    <file>Resources/unmode.png</file>
+    <file>Resources/ban.png</file>
+  </qresource>
+</RCC>
