@@ -205,9 +205,6 @@ namespace irc
 		std::size_t iArchiveSize; // KB
 		scrollbackers iScrollbackers;
 		neolib::callback_timer iUpdateTimer;
-	public:
-		static std::string sConvertStartMessage;
-		static std::string sConvertEndMessage;
 	};
 }
 
